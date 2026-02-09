@@ -7,7 +7,7 @@
 
 ##  About Me
 
-- Aspiring **Data Scientist & AI Engineer**
+- Aspiring **Data Scientist & AI Engineer** , Currently pursuing my studies at **IIT Kharagpur**
 - Research experience in **Computer Vision & Face Restoration**
 - Skilled in **Generative AI, RAG systems & ML pipelines**
 - Interested in **LLMs, Multi-Agent Systems & Applied AI**
